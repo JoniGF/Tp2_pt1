@@ -27,7 +27,7 @@
             android:id="@+id/Mensaje"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Saludo"
+            android:text="aludo"
             android:layout_below="@+id/Nom"
             android:layout_centerHorizontal="true"
             android:layout_marginTop="38dp"
