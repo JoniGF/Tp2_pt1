@@ -5,6 +5,7 @@
       <w>ingrese</w>
       <w>mensaje</w>
       <w>nombre</w>
+      <w>saludo</w>
     </words>
   </dictionary>
 </component>
